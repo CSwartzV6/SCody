@@ -1,9 +1,9 @@
 ---
 title: About
 date: 2019-05-12T06:14:34+00:00
-description: This is meta description.
+description: About Cody
 author_image: images/about/author.jpg
-author_signature: images/about/signature.png
+author_signature: ''
 
 ---
 Web guy, designer, gamer, gentleman in black. 
