@@ -1,7 +1,7 @@
 ---
 title: My Game Collection
 date: 2019-05-12T06:14:34+00:00
-image: images/blog/post-3.jpg
+image: "/images/portfolio/item-4.png"
 description: This is meta description.
 
 ---
