@@ -27,7 +27,7 @@ description = "A place for my things..."
 email = "cody.swartz@outlook.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "/images/logo.jpg"
+logo = "/images/cs-logo-temp.png"
 phone = ""
 theme_color = "#41228e"
 [params.contact]
