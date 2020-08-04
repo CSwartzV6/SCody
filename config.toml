@@ -27,7 +27,7 @@ description = "A place for my things..."
 email = "cody.swartz@outlook.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "/images/cs-logo-temp.png"
+logo = "/images/cs-logo-temp-white.png"
 phone = ""
 theme_color = "#41228e"
 [params.contact]
@@ -50,6 +50,9 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
+[[params.social]]
+URL = ""
+icon = ""
 [[params.social]]
 URL = "https://www.facebook.com/Cody.S.Swartz"
 icon = "ti-facebook"
