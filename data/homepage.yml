@@ -21,7 +21,7 @@ skill:
   - title: Graphic Design
     progress: 70%
     color: "#9473e6"
-  - progress: 95%
+  - progress: 100%
     color: "#00FFFF"
     title: Charisma
 experience:
