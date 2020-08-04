@@ -21,6 +21,9 @@ skill:
   - title: Web Development
     progress: 75%
     color: "#bdecf6"
+  - progress: 95%
+    color: "#00FFFF"
+    title: Charisma
 experience:
   enable: true
   title: Experience
