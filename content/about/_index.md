@@ -1,8 +1,8 @@
 ---
 title: About
-date: 2019-05-12T06:14:34+00:00
+date: 
 description: About Cody
-author_image: images/about/author.jpg
+author_image: https://media-exp1.licdn.com/dms/image/C4D03AQH4wuYciptDZQ/profile-displayphoto-shrink_100_100/0?e=1602115200&v=beta&t=zxcgT53OlETFE8ARuJDZhSCo5eq5ETZyIpN9Gv_MsZI
 author_signature: images/about/signature.jpg
 
 ---
