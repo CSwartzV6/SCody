@@ -50,7 +50,7 @@ education:
     year: "2011"
     academy: ''
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -125,4 +125,4 @@ clients_logo_slider:
     URL: "#"
 blog:
   enable: true
-  title: Blogs
+  title: Blog
