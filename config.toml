@@ -51,9 +51,6 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = ""
-icon = ""
-[[params.social]]
 URL = "https://www.facebook.com/Cody.S.Swartz"
 icon = "ti-facebook"
 [[params.social]]
