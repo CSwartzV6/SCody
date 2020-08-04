@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Cody Swartz | The Man In Dark Clothing"
 [[menu.main]]
 URL = "about"
 name = "About"
