@@ -57,8 +57,5 @@ icon = "ti-facebook"
 URL = "https://github.com/CSwartzV6"
 icon = "ti-github"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+URL = "https://www.instagram.com/cody.swartz/"
+icon = "ti-instagram"
