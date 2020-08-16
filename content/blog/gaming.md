@@ -1,6 +1,6 @@
 +++
-date = ""
-description = ""
+date = 2020-08-16T04:00:00Z
+description = "A life long affliction."
 image = ""
 title = "Gaming"
 [menu.main]
