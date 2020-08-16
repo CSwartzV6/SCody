@@ -7,7 +7,7 @@ description: Game Collection
 ---
 [https://www.pricecharting.com/offers?seller=jheaxmcftqenwh5sqg6k6nzcsy&status=collectiont](https://www.pricecharting.com/offers?seller=jheaxmcftqenwh5sqg6k6nzcsy&status=collectiont "Price Charting - See Collection")
 
-I have:
+Consoles:
 
 NES
 
