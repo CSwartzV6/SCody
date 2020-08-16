@@ -23,6 +23,8 @@ Playstation (Classic)
 
 Wii U
 
-Switch.
+Switch Lite
+
+Switch
 
 _*Classic versions are the mini sized remakes_
