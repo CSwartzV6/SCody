@@ -1,6 +1,6 @@
 ---
 title: My Game Collection
-date: 2019-05-12T06:14:34+00:00
+date: 2019-05-12T06:14:34.000+00:00
 image: "/images/portfolio/item-4.png"
 description: Game Collection
 
@@ -11,14 +11,18 @@ I have:
 
 NES
 
-NES - Classic
+Atari (Classic)
 
-SNES - Classic
+NES (Classic)
 
-Sega - Classic
+SNES (Classic)
 
-Playstation - Classic
+Sega (Classic)
+
+Playstation (Classic)
 
 Wii U
 
 Switch.
+
+_*Classic versions are the mini sized remakes_
