@@ -19,7 +19,7 @@ SNES (Classic)
 
 Sega (Classic)
 
-Playstation (Classic)
+Playstation (Classic) 
 
 Wii U
 
