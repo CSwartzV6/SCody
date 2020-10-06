@@ -1,7 +1,7 @@
 ---
 title: My Game Collection
 date: 2020-10-06T04:00:00+00:00
-image: "/images/portfolio/item-4.png"
+image: "/images/nes-controller.png"
 description: My Retro Game Collection
 menu:
   main:
