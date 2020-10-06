@@ -14,20 +14,13 @@ menu:
 
 NES
 
-Atari (Classic)
-
-NES (Classic)
-
-SNES (Classic)
-
-Sega (Classic)
-
-Playstation (Classic)
-
-Wii U
-
-Switch Lite
-
-Switch
+* Atari (Classic)
+* NES (Classic)
+* SNES (Classic)
+* Sega (Classic)
+* Playstation (Classic)
+* Wii U
+* Switch Lite
+* Switch
 
 _*Classic versions are the mini sized remakes_
