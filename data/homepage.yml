@@ -15,12 +15,12 @@ skill:
   - title: Web Design
     progress: 90%
     color: "#fdb157"
-  - title: Web Dev
-    progress: 75%
-    color: "#bdecf6"
   - title: Graphic Design
-    progress: 70%
+    progress: 75%
     color: "#9473e6"
+  - title: Web Dev
+    progress: 70%
+    color: "#bdecf6"
   - progress: 100%
     color: "#00FFFF"
     title: Charisma
@@ -69,7 +69,7 @@ service:
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
