@@ -15,12 +15,12 @@ skill:
   - title: Web Design
     progress: 90%
     color: "#fdb157"
+  - title: Graphic Design
+    progress: 75%
+    color: "#9473e6"
   - title: Web Dev
     progress: 75%
     color: "#bdecf6"
-  - title: Graphic Design
-    progress: 70%
-    color: "#9473e6"
   - progress: 100%
     color: "#00FFFF"
     title: Charisma
