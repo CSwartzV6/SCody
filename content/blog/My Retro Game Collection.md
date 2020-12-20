@@ -1,6 +1,6 @@
 ---
 title: My Game Collection
-date: 2020-10-06T04:00:00+00:00
+date: 2020-10-06T04:00:00.000+00:00
 image: "/images/nes-controller.png"
 description: My Retro Game Collection
 menu:
@@ -8,7 +8,7 @@ menu:
     weight: 4
 
 ---
-[https://www.pricecharting.com/offers?seller=jheaxmcftqenwh5sqg6k6nzcsy&status=collectiont](https://www.pricecharting.com/offers?seller=jheaxmcftqenwh5sqg6k6nzcsy&status=collectiont "Price Charting - See Collection")
+[PriceCharting Collection](https://www.pricecharting.com/offers?seller=jheaxmcftqenwh5sqg6k6nzcsy&status=collection "Price Charting - See Collection")
 
 ## Consoles:
 
