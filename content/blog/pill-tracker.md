@@ -1,7 +1,7 @@
 +++
 date = 2020-12-23T05:00:00Z
 description = "Little side project, Pill Tracker"
-image = ""
+image = "/images/screen-shot-2020-12-23-at-11-26-54-am.png"
 title = "Pill Tracker"
 
 +++
