@@ -4,28 +4,28 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Cody Swartz"
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
 [params]
 address = ""
 author = "Cody Swartz"
 copyright = "Copyright &copy; 2020"
 description = "A place for my things..."
 email = "cody.swartz@outlook.com"
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-49013120-1"
 home = "Home"
 logo = "/images/cs-logo-temp-white.png"
 phone = ""
