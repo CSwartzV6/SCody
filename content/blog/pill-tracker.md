@@ -8,3 +8,5 @@ title = "Pill Tracker"
 Recently couldn't recall if I'd taken my medication or not and wished that the app I used told me how many pills I should have left in the bottle. Decided it would be fun (and potentially useful) to create a simple pill app that provided additional details such as that.
 
 <a href="https://cswartzv6.github.io/pill-tracker/" target="_blank">Pill Tracker</a>
+
+[Pill Tracker - Cody Swartz](https://cswartzv6.github.io/pill-tracker/ "Pill Tracker" "_blank")
