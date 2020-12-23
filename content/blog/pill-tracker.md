@@ -1,7 +1,6 @@
 +++
 date = 2020-12-23T05:00:00Z
 description = "Little side project, Pill Tracker"
-draft = true
 image = ""
 title = "Pill Tracker"
 
